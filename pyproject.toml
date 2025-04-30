@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "odooaigues"
+version = "0.1.0"
+description = "Just messing around with the wrapper of odoo for python with some data form \"INE\" about water."
+authors = ["x14119641 <daniel.gil.romero24@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
