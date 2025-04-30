@@ -12,6 +12,12 @@ __pycache__/
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
+# Odoo folder
+odoo/
+
+# conf files
+*.conf
+
 # Distribution / packaging
 .Python
 build/
