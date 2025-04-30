@@ -17,7 +17,8 @@ Perhaps this is not need, but need to be above 3.10
 
 ## 1. Install odoo
 In main project folder, where data is run 
-```git clone https://github.com/odoo/odoo.git
+```
+git clone https://github.com/odoo/odoo.git
 ```
 ## 2. Set up postgres
 Install postgres: https://www.postgresql.org/download/ and follow instructions to install it.
@@ -58,7 +59,8 @@ logfile = odoo.log
 dev_mode = True
 ```
 In main project folder, where data is run 
-```python odoo/odoo-bin -c odoo.conf
+```
+python odoo/odoo-bin -c odoo.conf
 ```
 ### Install requiremetns from odoo
 ```
