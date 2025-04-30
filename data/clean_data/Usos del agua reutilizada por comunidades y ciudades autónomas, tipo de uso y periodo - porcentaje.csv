@@ -1,0 +1,1806 @@
+region_code,region,tipo_de_uso,periodo,total
+00,Total Nacional,Agricultura,2022,"71,8"
+00,Total Nacional,Agricultura,2020,"72,4"
+00,Total Nacional,Agricultura,2018,"65,8"
+00,Total Nacional,Agricultura,2016,"61,2"
+00,Total Nacional,Agricultura,2014,"61,3"
+00,Total Nacional,Agricultura,2013,"64,2"
+00,Total Nacional,Agricultura,2012,"62,4"
+00,Total Nacional,Agricultura,2011,"62,1"
+00,Total Nacional,Agricultura,2010,..
+00,Total Nacional,Agricultura,2009,..
+00,Total Nacional,Agricultura,2008,..
+00,Total Nacional,Agricultura,2007,..
+00,Total Nacional,Agricultura,2006,..
+00,Total Nacional,Agricultura,2005,..
+00,Total Nacional,Agricultura,2004,..
+00,Total Nacional,Agricultura,2003,..
+00,Total Nacional,Agricultura,2002,..
+00,Total Nacional,Agricultura,2001,..
+00,Total Nacional,Agricultura,2000,..
+00,Total Nacional,Industria,2022,"16,6"
+00,Total Nacional,Industria,2020,"2,5"
+00,Total Nacional,Industria,2018,"3,8"
+00,Total Nacional,Industria,2016,"5,1"
+00,Total Nacional,Industria,2014,"8,2"
+00,Total Nacional,Industria,2013,"6,7"
+00,Total Nacional,Industria,2012,"7,7"
+00,Total Nacional,Industria,2011,"6,5"
+00,Total Nacional,Industria,2010,..
+00,Total Nacional,Industria,2009,..
+00,Total Nacional,Industria,2008,..
+00,Total Nacional,Industria,2007,..
+00,Total Nacional,Industria,2006,..
+00,Total Nacional,Industria,2005,..
+00,Total Nacional,Industria,2004,..
+00,Total Nacional,Industria,2003,..
+00,Total Nacional,Industria,2002,..
+00,Total Nacional,Industria,2001,..
+00,Total Nacional,Industria,2000,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2022,"10,9"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2020,"17,2"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2018,"26,1"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2016,"19,0"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2014,"18,5"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2013,"18,8"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2012,"17,9"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2011,"23,2"
+00,Total Nacional,Jardines y zonas deportivas de ocio,2010,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2009,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2008,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2007,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2006,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2005,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2004,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2003,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2002,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2001,..
+00,Total Nacional,Jardines y zonas deportivas de ocio,2000,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2022,"0,8"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2020,"2,4"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2018,"2,5"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2016,"1,6"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2014,"0,6"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2013,"0,5"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2012,"1,2"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2011,"0,9"
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2010,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2009,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2008,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2007,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2006,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2005,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2004,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2003,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2002,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2001,..
+00,Total Nacional,Limpieza de alcantarillado y baldeo de calles,2000,..
+00,Total Nacional,Otros usos,2022,"2,8"
+00,Total Nacional,Otros usos,2020,"5,5"
+00,Total Nacional,Otros usos,2018,"1,8"
+00,Total Nacional,Otros usos,2016,"13,1"
+00,Total Nacional,Otros usos,2014,"11,4"
+00,Total Nacional,Otros usos,2013,"9,8"
+00,Total Nacional,Otros usos,2012,"10,8"
+00,Total Nacional,Otros usos,2011,"7,3"
+00,Total Nacional,Otros usos,2010,..
+00,Total Nacional,Otros usos,2009,..
+00,Total Nacional,Otros usos,2008,..
+00,Total Nacional,Otros usos,2007,..
+00,Total Nacional,Otros usos,2006,..
+00,Total Nacional,Otros usos,2005,..
+00,Total Nacional,Otros usos,2004,..
+00,Total Nacional,Otros usos,2003,..
+00,Total Nacional,Otros usos,2002,..
+00,Total Nacional,Otros usos,2001,..
+00,Total Nacional,Otros usos,2000,..
+01,Andalucía,Agricultura,2022,"60,5"
+01,Andalucía,Agricultura,2020,"66,9"
+01,Andalucía,Agricultura,2018,"4,8"
+01,Andalucía,Agricultura,2016,"2,5"
+01,Andalucía,Agricultura,2014,"0,7"
+01,Andalucía,Agricultura,2013,"0,8"
+01,Andalucía,Agricultura,2012,"0,7"
+01,Andalucía,Agricultura,2011,"1,4"
+01,Andalucía,Agricultura,2010,..
+01,Andalucía,Agricultura,2009,..
+01,Andalucía,Agricultura,2008,..
+01,Andalucía,Agricultura,2007,..
+01,Andalucía,Agricultura,2006,..
+01,Andalucía,Agricultura,2005,..
+01,Andalucía,Agricultura,2004,..
+01,Andalucía,Agricultura,2003,..
+01,Andalucía,Agricultura,2002,..
+01,Andalucía,Agricultura,2001,..
+01,Andalucía,Agricultura,2000,..
+01,Andalucía,Industria,2022,"13,6"
+01,Andalucía,Industria,2020,"11,5"
+01,Andalucía,Industria,2018,"21,0"
+01,Andalucía,Industria,2016,"27,8"
+01,Andalucía,Industria,2014,"43,4"
+01,Andalucía,Industria,2013,"41,7"
+01,Andalucía,Industria,2012,"40,5"
+01,Andalucía,Industria,2011,"31,5"
+01,Andalucía,Industria,2010,..
+01,Andalucía,Industria,2009,..
+01,Andalucía,Industria,2008,..
+01,Andalucía,Industria,2007,..
+01,Andalucía,Industria,2006,..
+01,Andalucía,Industria,2005,..
+01,Andalucía,Industria,2004,..
+01,Andalucía,Industria,2003,..
+01,Andalucía,Industria,2002,..
+01,Andalucía,Industria,2001,..
+01,Andalucía,Industria,2000,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2022,"23,6"
+01,Andalucía,Jardines y zonas deportivas de ocio,2020,"10,9"
+01,Andalucía,Jardines y zonas deportivas de ocio,2018,"72,4"
+01,Andalucía,Jardines y zonas deportivas de ocio,2016,"69,2"
+01,Andalucía,Jardines y zonas deportivas de ocio,2014,"54,2"
+01,Andalucía,Jardines y zonas deportivas de ocio,2013,"54,7"
+01,Andalucía,Jardines y zonas deportivas de ocio,2012,"55,5"
+01,Andalucía,Jardines y zonas deportivas de ocio,2011,"62,2"
+01,Andalucía,Jardines y zonas deportivas de ocio,2010,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2009,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2008,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2007,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2006,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2005,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2004,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2003,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2002,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2001,..
+01,Andalucía,Jardines y zonas deportivas de ocio,2000,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2018,"1,8"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2016,"0,5"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2011,"1,0"
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2010,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2009,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2008,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2007,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2006,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2005,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2004,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2003,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2002,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2001,..
+01,Andalucía,Limpieza de alcantarillado y baldeo de calles,2000,..
+01,Andalucía,Otros usos,2022,"2,3"
+01,Andalucía,Otros usos,2020,"10,7"
+01,Andalucía,Otros usos,2018,"0,0"
+01,Andalucía,Otros usos,2016,"0,0"
+01,Andalucía,Otros usos,2014,"1,7"
+01,Andalucía,Otros usos,2013,"2,8"
+01,Andalucía,Otros usos,2012,"3,3"
+01,Andalucía,Otros usos,2011,"3,9"
+01,Andalucía,Otros usos,2010,..
+01,Andalucía,Otros usos,2009,..
+01,Andalucía,Otros usos,2008,..
+01,Andalucía,Otros usos,2007,..
+01,Andalucía,Otros usos,2006,..
+01,Andalucía,Otros usos,2005,..
+01,Andalucía,Otros usos,2004,..
+01,Andalucía,Otros usos,2003,..
+01,Andalucía,Otros usos,2002,..
+01,Andalucía,Otros usos,2001,..
+01,Andalucía,Otros usos,2000,..
+02,Aragón,Agricultura,2022,"0,0"
+02,Aragón,Agricultura,2020,"0,0"
+02,Aragón,Agricultura,2018,"44,2"
+02,Aragón,Agricultura,2016,"64,2"
+02,Aragón,Agricultura,2014,"52,2"
+02,Aragón,Agricultura,2013,"55,0"
+02,Aragón,Agricultura,2012,"61,0"
+02,Aragón,Agricultura,2011,"66,0"
+02,Aragón,Agricultura,2010,..
+02,Aragón,Agricultura,2009,..
+02,Aragón,Agricultura,2008,..
+02,Aragón,Agricultura,2007,..
+02,Aragón,Agricultura,2006,..
+02,Aragón,Agricultura,2005,..
+02,Aragón,Agricultura,2004,..
+02,Aragón,Agricultura,2003,..
+02,Aragón,Agricultura,2002,..
+02,Aragón,Agricultura,2001,..
+02,Aragón,Agricultura,2000,..
+02,Aragón,Industria,2022,"0,0"
+02,Aragón,Industria,2020,"0,0"
+02,Aragón,Industria,2018,"0,0"
+02,Aragón,Industria,2016,"0,0"
+02,Aragón,Industria,2014,"0,0"
+02,Aragón,Industria,2013,"0,0"
+02,Aragón,Industria,2012,"0,0"
+02,Aragón,Industria,2011,"0,0"
+02,Aragón,Industria,2010,..
+02,Aragón,Industria,2009,..
+02,Aragón,Industria,2008,..
+02,Aragón,Industria,2007,..
+02,Aragón,Industria,2006,..
+02,Aragón,Industria,2005,..
+02,Aragón,Industria,2004,..
+02,Aragón,Industria,2003,..
+02,Aragón,Industria,2002,..
+02,Aragón,Industria,2001,..
+02,Aragón,Industria,2000,..
+02,Aragón,Jardines y zonas deportivas de ocio,2022,"100,0"
+02,Aragón,Jardines y zonas deportivas de ocio,2020,"100,0"
+02,Aragón,Jardines y zonas deportivas de ocio,2018,"55,8"
+02,Aragón,Jardines y zonas deportivas de ocio,2016,"35,8"
+02,Aragón,Jardines y zonas deportivas de ocio,2014,"47,8"
+02,Aragón,Jardines y zonas deportivas de ocio,2013,"45,0"
+02,Aragón,Jardines y zonas deportivas de ocio,2012,"39,0"
+02,Aragón,Jardines y zonas deportivas de ocio,2011,"34,0"
+02,Aragón,Jardines y zonas deportivas de ocio,2010,..
+02,Aragón,Jardines y zonas deportivas de ocio,2009,..
+02,Aragón,Jardines y zonas deportivas de ocio,2008,..
+02,Aragón,Jardines y zonas deportivas de ocio,2007,..
+02,Aragón,Jardines y zonas deportivas de ocio,2006,..
+02,Aragón,Jardines y zonas deportivas de ocio,2005,..
+02,Aragón,Jardines y zonas deportivas de ocio,2004,..
+02,Aragón,Jardines y zonas deportivas de ocio,2003,..
+02,Aragón,Jardines y zonas deportivas de ocio,2002,..
+02,Aragón,Jardines y zonas deportivas de ocio,2001,..
+02,Aragón,Jardines y zonas deportivas de ocio,2000,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2010,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2009,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2008,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2007,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2006,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2005,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2004,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2003,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2002,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2001,..
+02,Aragón,Limpieza de alcantarillado y baldeo de calles,2000,..
+02,Aragón,Otros usos,2022,"0,0"
+02,Aragón,Otros usos,2020,"0,0"
+02,Aragón,Otros usos,2018,"0,0"
+02,Aragón,Otros usos,2016,"0,0"
+02,Aragón,Otros usos,2014,"0,0"
+02,Aragón,Otros usos,2013,"0,0"
+02,Aragón,Otros usos,2012,"0,0"
+02,Aragón,Otros usos,2011,"0,0"
+02,Aragón,Otros usos,2010,..
+02,Aragón,Otros usos,2009,..
+02,Aragón,Otros usos,2008,..
+02,Aragón,Otros usos,2007,..
+02,Aragón,Otros usos,2006,..
+02,Aragón,Otros usos,2005,..
+02,Aragón,Otros usos,2004,..
+02,Aragón,Otros usos,2003,..
+02,Aragón,Otros usos,2002,..
+02,Aragón,Otros usos,2001,..
+02,Aragón,Otros usos,2000,..
+03,"Asturias, Principado de",Agricultura,2022,"0,0"
+03,"Asturias, Principado de",Agricultura,2020,"0,0"
+03,"Asturias, Principado de",Agricultura,2018,"0,0"
+03,"Asturias, Principado de",Agricultura,2016,"0,0"
+03,"Asturias, Principado de",Agricultura,2014,"0,0"
+03,"Asturias, Principado de",Agricultura,2013,"0,0"
+03,"Asturias, Principado de",Agricultura,2012,"0,0"
+03,"Asturias, Principado de",Agricultura,2011,"0,0"
+03,"Asturias, Principado de",Agricultura,2010,..
+03,"Asturias, Principado de",Agricultura,2009,..
+03,"Asturias, Principado de",Agricultura,2008,..
+03,"Asturias, Principado de",Agricultura,2007,..
+03,"Asturias, Principado de",Agricultura,2006,..
+03,"Asturias, Principado de",Agricultura,2005,..
+03,"Asturias, Principado de",Agricultura,2004,..
+03,"Asturias, Principado de",Agricultura,2003,..
+03,"Asturias, Principado de",Agricultura,2002,..
+03,"Asturias, Principado de",Agricultura,2001,..
+03,"Asturias, Principado de",Agricultura,2000,..
+03,"Asturias, Principado de",Industria,2022,"0,0"
+03,"Asturias, Principado de",Industria,2020,"0,0"
+03,"Asturias, Principado de",Industria,2018,"0,0"
+03,"Asturias, Principado de",Industria,2016,"0,0"
+03,"Asturias, Principado de",Industria,2014,"0,0"
+03,"Asturias, Principado de",Industria,2013,"0,0"
+03,"Asturias, Principado de",Industria,2012,"0,0"
+03,"Asturias, Principado de",Industria,2011,"0,0"
+03,"Asturias, Principado de",Industria,2010,..
+03,"Asturias, Principado de",Industria,2009,..
+03,"Asturias, Principado de",Industria,2008,..
+03,"Asturias, Principado de",Industria,2007,..
+03,"Asturias, Principado de",Industria,2006,..
+03,"Asturias, Principado de",Industria,2005,..
+03,"Asturias, Principado de",Industria,2004,..
+03,"Asturias, Principado de",Industria,2003,..
+03,"Asturias, Principado de",Industria,2002,..
+03,"Asturias, Principado de",Industria,2001,..
+03,"Asturias, Principado de",Industria,2000,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2022,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2020,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2018,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2016,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2014,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2013,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2012,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2011,"0,0"
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2010,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2009,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2008,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2007,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2006,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2005,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2004,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2003,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2002,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2001,..
+03,"Asturias, Principado de",Jardines y zonas deportivas de ocio,2000,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2010,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2009,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2008,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2007,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2006,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2005,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2004,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2003,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2002,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2001,..
+03,"Asturias, Principado de",Limpieza de alcantarillado y baldeo de calles,2000,..
+03,"Asturias, Principado de",Otros usos,2022,"100,0"
+03,"Asturias, Principado de",Otros usos,2020,"100,0"
+03,"Asturias, Principado de",Otros usos,2018,"100,0"
+03,"Asturias, Principado de",Otros usos,2016,"100,0"
+03,"Asturias, Principado de",Otros usos,2014,"100,0"
+03,"Asturias, Principado de",Otros usos,2013,"0,0"
+03,"Asturias, Principado de",Otros usos,2012,"100,0"
+03,"Asturias, Principado de",Otros usos,2011,"100,0"
+03,"Asturias, Principado de",Otros usos,2010,..
+03,"Asturias, Principado de",Otros usos,2009,..
+03,"Asturias, Principado de",Otros usos,2008,..
+03,"Asturias, Principado de",Otros usos,2007,..
+03,"Asturias, Principado de",Otros usos,2006,..
+03,"Asturias, Principado de",Otros usos,2005,..
+03,"Asturias, Principado de",Otros usos,2004,..
+03,"Asturias, Principado de",Otros usos,2003,..
+03,"Asturias, Principado de",Otros usos,2002,..
+03,"Asturias, Principado de",Otros usos,2001,..
+03,"Asturias, Principado de",Otros usos,2000,..
+04,"Balears, Illes",Agricultura,2022,"67,8"
+04,"Balears, Illes",Agricultura,2020,"56,8"
+04,"Balears, Illes",Agricultura,2018,"55,0"
+04,"Balears, Illes",Agricultura,2016,"56,8"
+04,"Balears, Illes",Agricultura,2014,"56,7"
+04,"Balears, Illes",Agricultura,2013,"59,6"
+04,"Balears, Illes",Agricultura,2012,"56,1"
+04,"Balears, Illes",Agricultura,2011,"58,0"
+04,"Balears, Illes",Agricultura,2010,..
+04,"Balears, Illes",Agricultura,2009,..
+04,"Balears, Illes",Agricultura,2008,..
+04,"Balears, Illes",Agricultura,2007,..
+04,"Balears, Illes",Agricultura,2006,..
+04,"Balears, Illes",Agricultura,2005,..
+04,"Balears, Illes",Agricultura,2004,..
+04,"Balears, Illes",Agricultura,2003,..
+04,"Balears, Illes",Agricultura,2002,..
+04,"Balears, Illes",Agricultura,2001,..
+04,"Balears, Illes",Agricultura,2000,..
+04,"Balears, Illes",Industria,2022,"0,0"
+04,"Balears, Illes",Industria,2020,"0,0"
+04,"Balears, Illes",Industria,2018,"0,0"
+04,"Balears, Illes",Industria,2016,"0,0"
+04,"Balears, Illes",Industria,2014,"0,0"
+04,"Balears, Illes",Industria,2013,"7,1"
+04,"Balears, Illes",Industria,2012,"0,0"
+04,"Balears, Illes",Industria,2011,"0,0"
+04,"Balears, Illes",Industria,2010,..
+04,"Balears, Illes",Industria,2009,..
+04,"Balears, Illes",Industria,2008,..
+04,"Balears, Illes",Industria,2007,..
+04,"Balears, Illes",Industria,2006,..
+04,"Balears, Illes",Industria,2005,..
+04,"Balears, Illes",Industria,2004,..
+04,"Balears, Illes",Industria,2003,..
+04,"Balears, Illes",Industria,2002,..
+04,"Balears, Illes",Industria,2001,..
+04,"Balears, Illes",Industria,2000,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2022,"28,8"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2020,"42,9"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2018,"44,8"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2016,"42,9"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2014,"42,1"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2013,"29,8"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2012,"36,9"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2011,"35,0"
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2010,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2009,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2008,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2007,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2006,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2005,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2004,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2003,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2002,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2001,..
+04,"Balears, Illes",Jardines y zonas deportivas de ocio,2000,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2020,"0,3"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2018,"0,1"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2016,"0,1"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2014,"0,3"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2013,"2,3"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2012,"0,6"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2011,"0,3"
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2010,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2009,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2008,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2007,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2006,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2005,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2004,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2003,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2002,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2001,..
+04,"Balears, Illes",Limpieza de alcantarillado y baldeo de calles,2000,..
+04,"Balears, Illes",Otros usos,2022,"3,4"
+04,"Balears, Illes",Otros usos,2020,"0,0"
+04,"Balears, Illes",Otros usos,2018,"0,1"
+04,"Balears, Illes",Otros usos,2016,"0,2"
+04,"Balears, Illes",Otros usos,2014,"0,9"
+04,"Balears, Illes",Otros usos,2013,"1,2"
+04,"Balears, Illes",Otros usos,2012,"6,4"
+04,"Balears, Illes",Otros usos,2011,"6,7"
+04,"Balears, Illes",Otros usos,2010,..
+04,"Balears, Illes",Otros usos,2009,..
+04,"Balears, Illes",Otros usos,2008,..
+04,"Balears, Illes",Otros usos,2007,..
+04,"Balears, Illes",Otros usos,2006,..
+04,"Balears, Illes",Otros usos,2005,..
+04,"Balears, Illes",Otros usos,2004,..
+04,"Balears, Illes",Otros usos,2003,..
+04,"Balears, Illes",Otros usos,2002,..
+04,"Balears, Illes",Otros usos,2001,..
+04,"Balears, Illes",Otros usos,2000,..
+05,Canarias,Agricultura,2022,"67,3"
+05,Canarias,Agricultura,2020,"65,8"
+05,Canarias,Agricultura,2018,"66,8"
+05,Canarias,Agricultura,2016,"70,8"
+05,Canarias,Agricultura,2014,"53,1"
+05,Canarias,Agricultura,2013,"57,3"
+05,Canarias,Agricultura,2012,"63,1"
+05,Canarias,Agricultura,2011,"52,2"
+05,Canarias,Agricultura,2010,..
+05,Canarias,Agricultura,2009,..
+05,Canarias,Agricultura,2008,..
+05,Canarias,Agricultura,2007,..
+05,Canarias,Agricultura,2006,..
+05,Canarias,Agricultura,2005,..
+05,Canarias,Agricultura,2004,..
+05,Canarias,Agricultura,2003,..
+05,Canarias,Agricultura,2002,..
+05,Canarias,Agricultura,2001,..
+05,Canarias,Agricultura,2000,..
+05,Canarias,Industria,2022,"0,5"
+05,Canarias,Industria,2020,"1,1"
+05,Canarias,Industria,2018,"0,0"
+05,Canarias,Industria,2016,"0,0"
+05,Canarias,Industria,2014,"1,8"
+05,Canarias,Industria,2013,"0,0"
+05,Canarias,Industria,2012,"0,0"
+05,Canarias,Industria,2011,"0,0"
+05,Canarias,Industria,2010,..
+05,Canarias,Industria,2009,..
+05,Canarias,Industria,2008,..
+05,Canarias,Industria,2007,..
+05,Canarias,Industria,2006,..
+05,Canarias,Industria,2005,..
+05,Canarias,Industria,2004,..
+05,Canarias,Industria,2003,..
+05,Canarias,Industria,2002,..
+05,Canarias,Industria,2001,..
+05,Canarias,Industria,2000,..
+05,Canarias,Jardines y zonas deportivas de ocio,2022,"31,3"
+05,Canarias,Jardines y zonas deportivas de ocio,2020,"33,1"
+05,Canarias,Jardines y zonas deportivas de ocio,2018,"33,2"
+05,Canarias,Jardines y zonas deportivas de ocio,2016,"27,2"
+05,Canarias,Jardines y zonas deportivas de ocio,2014,"36,3"
+05,Canarias,Jardines y zonas deportivas de ocio,2013,"42,6"
+05,Canarias,Jardines y zonas deportivas de ocio,2012,"32,4"
+05,Canarias,Jardines y zonas deportivas de ocio,2011,"45,5"
+05,Canarias,Jardines y zonas deportivas de ocio,2010,..
+05,Canarias,Jardines y zonas deportivas de ocio,2009,..
+05,Canarias,Jardines y zonas deportivas de ocio,2008,..
+05,Canarias,Jardines y zonas deportivas de ocio,2007,..
+05,Canarias,Jardines y zonas deportivas de ocio,2006,..
+05,Canarias,Jardines y zonas deportivas de ocio,2005,..
+05,Canarias,Jardines y zonas deportivas de ocio,2004,..
+05,Canarias,Jardines y zonas deportivas de ocio,2003,..
+05,Canarias,Jardines y zonas deportivas de ocio,2002,..
+05,Canarias,Jardines y zonas deportivas de ocio,2001,..
+05,Canarias,Jardines y zonas deportivas de ocio,2000,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2016,"2,0"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2014,"5,6"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2013,"0,1"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2012,"3,6"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2011,"0,8"
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2010,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2009,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2008,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2007,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2006,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2005,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2004,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2003,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2002,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2001,..
+05,Canarias,Limpieza de alcantarillado y baldeo de calles,2000,..
+05,Canarias,Otros usos,2022,"1,0"
+05,Canarias,Otros usos,2020,"0,0"
+05,Canarias,Otros usos,2018,"0,0"
+05,Canarias,Otros usos,2016,"0,0"
+05,Canarias,Otros usos,2014,"3,2"
+05,Canarias,Otros usos,2013,"0,0"
+05,Canarias,Otros usos,2012,"0,9"
+05,Canarias,Otros usos,2011,"1,5"
+05,Canarias,Otros usos,2010,..
+05,Canarias,Otros usos,2009,..
+05,Canarias,Otros usos,2008,..
+05,Canarias,Otros usos,2007,..
+05,Canarias,Otros usos,2006,..
+05,Canarias,Otros usos,2005,..
+05,Canarias,Otros usos,2004,..
+05,Canarias,Otros usos,2003,..
+05,Canarias,Otros usos,2002,..
+05,Canarias,Otros usos,2001,..
+05,Canarias,Otros usos,2000,..
+06,Cantabria,Agricultura,2022,"0,0"
+06,Cantabria,Agricultura,2020,"100,0"
+06,Cantabria,Agricultura,2018,"100,0"
+06,Cantabria,Agricultura,2016,"0,0"
+06,Cantabria,Agricultura,2014,"0,0"
+06,Cantabria,Agricultura,2013,"0,0"
+06,Cantabria,Agricultura,2012,"0,0"
+06,Cantabria,Agricultura,2011,"0,0"
+06,Cantabria,Agricultura,2010,..
+06,Cantabria,Agricultura,2009,..
+06,Cantabria,Agricultura,2008,..
+06,Cantabria,Agricultura,2007,..
+06,Cantabria,Agricultura,2006,..
+06,Cantabria,Agricultura,2005,..
+06,Cantabria,Agricultura,2004,..
+06,Cantabria,Agricultura,2003,..
+06,Cantabria,Agricultura,2002,..
+06,Cantabria,Agricultura,2001,..
+06,Cantabria,Agricultura,2000,..
+06,Cantabria,Industria,2022,"0,0"
+06,Cantabria,Industria,2020,"0,0"
+06,Cantabria,Industria,2018,"0,0"
+06,Cantabria,Industria,2016,"0,0"
+06,Cantabria,Industria,2014,"0,0"
+06,Cantabria,Industria,2013,"0,0"
+06,Cantabria,Industria,2012,"0,0"
+06,Cantabria,Industria,2011,"0,0"
+06,Cantabria,Industria,2010,..
+06,Cantabria,Industria,2009,..
+06,Cantabria,Industria,2008,..
+06,Cantabria,Industria,2007,..
+06,Cantabria,Industria,2006,..
+06,Cantabria,Industria,2005,..
+06,Cantabria,Industria,2004,..
+06,Cantabria,Industria,2003,..
+06,Cantabria,Industria,2002,..
+06,Cantabria,Industria,2001,..
+06,Cantabria,Industria,2000,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2022,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2020,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2018,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2016,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2014,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2013,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2012,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2011,"0,0"
+06,Cantabria,Jardines y zonas deportivas de ocio,2010,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2009,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2008,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2007,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2006,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2005,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2004,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2003,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2002,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2001,..
+06,Cantabria,Jardines y zonas deportivas de ocio,2000,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2010,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2009,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2008,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2007,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2006,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2005,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2004,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2003,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2002,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2001,..
+06,Cantabria,Limpieza de alcantarillado y baldeo de calles,2000,..
+06,Cantabria,Otros usos,2022,"0,0"
+06,Cantabria,Otros usos,2020,"0,0"
+06,Cantabria,Otros usos,2018,"0,0"
+06,Cantabria,Otros usos,2016,"100,0"
+06,Cantabria,Otros usos,2014,"100,0"
+06,Cantabria,Otros usos,2013,"100,0"
+06,Cantabria,Otros usos,2012,"100,0"
+06,Cantabria,Otros usos,2011,"0,0"
+06,Cantabria,Otros usos,2010,..
+06,Cantabria,Otros usos,2009,..
+06,Cantabria,Otros usos,2008,..
+06,Cantabria,Otros usos,2007,..
+06,Cantabria,Otros usos,2006,..
+06,Cantabria,Otros usos,2005,..
+06,Cantabria,Otros usos,2004,..
+06,Cantabria,Otros usos,2003,..
+06,Cantabria,Otros usos,2002,..
+06,Cantabria,Otros usos,2001,..
+06,Cantabria,Otros usos,2000,..
+07,Castilla y León,Agricultura,2022,"26,3"
+07,Castilla y León,Agricultura,2020,"0,0"
+07,Castilla y León,Agricultura,2018,"1,0"
+07,Castilla y León,Agricultura,2016,"0,0"
+07,Castilla y León,Agricultura,2014,"0,0"
+07,Castilla y León,Agricultura,2013,"0,0"
+07,Castilla y León,Agricultura,2012,"0,0"
+07,Castilla y León,Agricultura,2011,"0,0"
+07,Castilla y León,Agricultura,2010,..
+07,Castilla y León,Agricultura,2009,..
+07,Castilla y León,Agricultura,2008,..
+07,Castilla y León,Agricultura,2007,..
+07,Castilla y León,Agricultura,2006,..
+07,Castilla y León,Agricultura,2005,..
+07,Castilla y León,Agricultura,2004,..
+07,Castilla y León,Agricultura,2003,..
+07,Castilla y León,Agricultura,2002,..
+07,Castilla y León,Agricultura,2001,..
+07,Castilla y León,Agricultura,2000,..
+07,Castilla y León,Industria,2022,"50,5"
+07,Castilla y León,Industria,2020,"15,9"
+07,Castilla y León,Industria,2018,"71,0"
+07,Castilla y León,Industria,2016,"81,0"
+07,Castilla y León,Industria,2014,"21,1"
+07,Castilla y León,Industria,2013,"16,2"
+07,Castilla y León,Industria,2012,"24,5"
+07,Castilla y León,Industria,2011,"55,5"
+07,Castilla y León,Industria,2010,..
+07,Castilla y León,Industria,2009,..
+07,Castilla y León,Industria,2008,..
+07,Castilla y León,Industria,2007,..
+07,Castilla y León,Industria,2006,..
+07,Castilla y León,Industria,2005,..
+07,Castilla y León,Industria,2004,..
+07,Castilla y León,Industria,2003,..
+07,Castilla y León,Industria,2002,..
+07,Castilla y León,Industria,2001,..
+07,Castilla y León,Industria,2000,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2022,"7,9"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2020,"31,1"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2018,"28,0"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2016,"6,2"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2014,"74,1"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2013,"80,3"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2012,"66,0"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2011,"15,6"
+07,Castilla y León,Jardines y zonas deportivas de ocio,2010,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2009,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2008,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2007,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2006,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2005,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2004,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2003,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2002,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2001,..
+07,Castilla y León,Jardines y zonas deportivas de ocio,2000,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2020,"23,1"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2016,"6,8"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2010,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2009,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2008,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2007,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2006,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2005,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2004,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2003,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2002,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2001,..
+07,Castilla y León,Limpieza de alcantarillado y baldeo de calles,2000,..
+07,Castilla y León,Otros usos,2022,"15,3"
+07,Castilla y León,Otros usos,2020,"29,9"
+07,Castilla y León,Otros usos,2018,"0,0"
+07,Castilla y León,Otros usos,2016,"6,0"
+07,Castilla y León,Otros usos,2014,"4,8"
+07,Castilla y León,Otros usos,2013,"3,5"
+07,Castilla y León,Otros usos,2012,"9,5"
+07,Castilla y León,Otros usos,2011,"28,9"
+07,Castilla y León,Otros usos,2010,..
+07,Castilla y León,Otros usos,2009,..
+07,Castilla y León,Otros usos,2008,..
+07,Castilla y León,Otros usos,2007,..
+07,Castilla y León,Otros usos,2006,..
+07,Castilla y León,Otros usos,2005,..
+07,Castilla y León,Otros usos,2004,..
+07,Castilla y León,Otros usos,2003,..
+07,Castilla y León,Otros usos,2002,..
+07,Castilla y León,Otros usos,2001,..
+07,Castilla y León,Otros usos,2000,..
+08,Castilla - La Mancha,Agricultura,2022,"98,0"
+08,Castilla - La Mancha,Agricultura,2020,"94,8"
+08,Castilla - La Mancha,Agricultura,2018,"99,6"
+08,Castilla - La Mancha,Agricultura,2016,"99,5"
+08,Castilla - La Mancha,Agricultura,2014,"99,7"
+08,Castilla - La Mancha,Agricultura,2013,"99,5"
+08,Castilla - La Mancha,Agricultura,2012,"89,2"
+08,Castilla - La Mancha,Agricultura,2011,"82,7"
+08,Castilla - La Mancha,Agricultura,2010,..
+08,Castilla - La Mancha,Agricultura,2009,..
+08,Castilla - La Mancha,Agricultura,2008,..
+08,Castilla - La Mancha,Agricultura,2007,..
+08,Castilla - La Mancha,Agricultura,2006,..
+08,Castilla - La Mancha,Agricultura,2005,..
+08,Castilla - La Mancha,Agricultura,2004,..
+08,Castilla - La Mancha,Agricultura,2003,..
+08,Castilla - La Mancha,Agricultura,2002,..
+08,Castilla - La Mancha,Agricultura,2001,..
+08,Castilla - La Mancha,Agricultura,2000,..
+08,Castilla - La Mancha,Industria,2022,"0,0"
+08,Castilla - La Mancha,Industria,2020,"4,8"
+08,Castilla - La Mancha,Industria,2018,"0,0"
+08,Castilla - La Mancha,Industria,2016,"0,0"
+08,Castilla - La Mancha,Industria,2014,"0,0"
+08,Castilla - La Mancha,Industria,2013,"0,0"
+08,Castilla - La Mancha,Industria,2012,"0,0"
+08,Castilla - La Mancha,Industria,2011,"0,0"
+08,Castilla - La Mancha,Industria,2010,..
+08,Castilla - La Mancha,Industria,2009,..
+08,Castilla - La Mancha,Industria,2008,..
+08,Castilla - La Mancha,Industria,2007,..
+08,Castilla - La Mancha,Industria,2006,..
+08,Castilla - La Mancha,Industria,2005,..
+08,Castilla - La Mancha,Industria,2004,..
+08,Castilla - La Mancha,Industria,2003,..
+08,Castilla - La Mancha,Industria,2002,..
+08,Castilla - La Mancha,Industria,2001,..
+08,Castilla - La Mancha,Industria,2000,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2022,"0,0"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2020,"0,4"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2018,"0,0"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2016,"0,0"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2014,"0,0"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2013,"0,0"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2012,"8,0"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2011,"17,3"
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2010,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2009,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2008,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2007,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2006,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2005,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2004,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2003,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2002,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2001,..
+08,Castilla - La Mancha,Jardines y zonas deportivas de ocio,2000,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2022,"2,0"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2018,"0,4"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2016,"0,5"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2014,"0,2"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2013,"0,4"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2012,"1,5"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2010,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2009,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2008,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2007,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2006,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2005,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2004,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2003,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2002,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2001,..
+08,Castilla - La Mancha,Limpieza de alcantarillado y baldeo de calles,2000,..
+08,Castilla - La Mancha,Otros usos,2022,"0,0"
+08,Castilla - La Mancha,Otros usos,2020,"0,0"
+08,Castilla - La Mancha,Otros usos,2018,"0,0"
+08,Castilla - La Mancha,Otros usos,2016,"0,0"
+08,Castilla - La Mancha,Otros usos,2014,"0,1"
+08,Castilla - La Mancha,Otros usos,2013,"0,1"
+08,Castilla - La Mancha,Otros usos,2012,"1,3"
+08,Castilla - La Mancha,Otros usos,2011,"0,0"
+08,Castilla - La Mancha,Otros usos,2010,..
+08,Castilla - La Mancha,Otros usos,2009,..
+08,Castilla - La Mancha,Otros usos,2008,..
+08,Castilla - La Mancha,Otros usos,2007,..
+08,Castilla - La Mancha,Otros usos,2006,..
+08,Castilla - La Mancha,Otros usos,2005,..
+08,Castilla - La Mancha,Otros usos,2004,..
+08,Castilla - La Mancha,Otros usos,2003,..
+08,Castilla - La Mancha,Otros usos,2002,..
+08,Castilla - La Mancha,Otros usos,2001,..
+08,Castilla - La Mancha,Otros usos,2000,..
+09,Cataluña,Agricultura,2022,"98,5"
+09,Cataluña,Agricultura,2020,"74,2"
+09,Cataluña,Agricultura,2018,"72,7"
+09,Cataluña,Agricultura,2016,"6,0"
+09,Cataluña,Agricultura,2014,"8,2"
+09,Cataluña,Agricultura,2013,"8,2"
+09,Cataluña,Agricultura,2012,"9,1"
+09,Cataluña,Agricultura,2011,"5,0"
+09,Cataluña,Agricultura,2010,..
+09,Cataluña,Agricultura,2009,..
+09,Cataluña,Agricultura,2008,..
+09,Cataluña,Agricultura,2007,..
+09,Cataluña,Agricultura,2006,..
+09,Cataluña,Agricultura,2005,..
+09,Cataluña,Agricultura,2004,..
+09,Cataluña,Agricultura,2003,..
+09,Cataluña,Agricultura,2002,..
+09,Cataluña,Agricultura,2001,..
+09,Cataluña,Agricultura,2000,..
+09,Cataluña,Industria,2022,"8,9"
+09,Cataluña,Industria,2020,"1,8"
+09,Cataluña,Industria,2018,"2,1"
+09,Cataluña,Industria,2016,"13,0"
+09,Cataluña,Industria,2014,"7,5"
+09,Cataluña,Industria,2013,"4,2"
+09,Cataluña,Industria,2012,"0,0"
+09,Cataluña,Industria,2011,"0,0"
+09,Cataluña,Industria,2010,..
+09,Cataluña,Industria,2009,..
+09,Cataluña,Industria,2008,..
+09,Cataluña,Industria,2007,..
+09,Cataluña,Industria,2006,..
+09,Cataluña,Industria,2005,..
+09,Cataluña,Industria,2004,..
+09,Cataluña,Industria,2003,..
+09,Cataluña,Industria,2002,..
+09,Cataluña,Industria,2001,..
+09,Cataluña,Industria,2000,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2022,"4,8"
+09,Cataluña,Jardines y zonas deportivas de ocio,2020,"24,0"
+09,Cataluña,Jardines y zonas deportivas de ocio,2018,"25,2"
+09,Cataluña,Jardines y zonas deportivas de ocio,2016,"17,0"
+09,Cataluña,Jardines y zonas deportivas de ocio,2014,"19,2"
+09,Cataluña,Jardines y zonas deportivas de ocio,2013,"18,1"
+09,Cataluña,Jardines y zonas deportivas de ocio,2012,"23,7"
+09,Cataluña,Jardines y zonas deportivas de ocio,2011,"83,3"
+09,Cataluña,Jardines y zonas deportivas de ocio,2010,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2009,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2008,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2007,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2006,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2005,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2004,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2003,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2002,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2001,..
+09,Cataluña,Jardines y zonas deportivas de ocio,2000,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2022,"0,2"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2014,"1,3"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2013,"2,2"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2012,"2,4"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2011,"4,2"
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2010,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2009,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2008,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2007,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2006,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2005,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2004,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2003,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2002,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2001,..
+09,Cataluña,Limpieza de alcantarillado y baldeo de calles,2000,..
+09,Cataluña,Otros usos,2022,"1,1"
+09,Cataluña,Otros usos,2020,"0,0"
+09,Cataluña,Otros usos,2018,"0,0"
+09,Cataluña,Otros usos,2016,"64,0"
+09,Cataluña,Otros usos,2014,"63,8"
+09,Cataluña,Otros usos,2013,"67,3"
+09,Cataluña,Otros usos,2012,"64,8"
+09,Cataluña,Otros usos,2011,"7,5"
+09,Cataluña,Otros usos,2010,..
+09,Cataluña,Otros usos,2009,..
+09,Cataluña,Otros usos,2008,..
+09,Cataluña,Otros usos,2007,..
+09,Cataluña,Otros usos,2006,..
+09,Cataluña,Otros usos,2005,..
+09,Cataluña,Otros usos,2004,..
+09,Cataluña,Otros usos,2003,..
+09,Cataluña,Otros usos,2002,..
+09,Cataluña,Otros usos,2001,..
+09,Cataluña,Otros usos,2000,..
+10,Comunitat Valenciana,Agricultura,2022,"87,5"
+10,Comunitat Valenciana,Agricultura,2020,"94,0"
+10,Comunitat Valenciana,Agricultura,2018,"95,7"
+10,Comunitat Valenciana,Agricultura,2016,"96,1"
+10,Comunitat Valenciana,Agricultura,2014,"89,7"
+10,Comunitat Valenciana,Agricultura,2013,"93,8"
+10,Comunitat Valenciana,Agricultura,2012,"96,4"
+10,Comunitat Valenciana,Agricultura,2011,"95,4"
+10,Comunitat Valenciana,Agricultura,2010,..
+10,Comunitat Valenciana,Agricultura,2009,..
+10,Comunitat Valenciana,Agricultura,2008,..
+10,Comunitat Valenciana,Agricultura,2007,..
+10,Comunitat Valenciana,Agricultura,2006,..
+10,Comunitat Valenciana,Agricultura,2005,..
+10,Comunitat Valenciana,Agricultura,2004,..
+10,Comunitat Valenciana,Agricultura,2003,..
+10,Comunitat Valenciana,Agricultura,2002,..
+10,Comunitat Valenciana,Agricultura,2001,..
+10,Comunitat Valenciana,Agricultura,2000,..
+10,Comunitat Valenciana,Industria,2022,"4,5"
+10,Comunitat Valenciana,Industria,2020,"1,2"
+10,Comunitat Valenciana,Industria,2018,"0,8"
+10,Comunitat Valenciana,Industria,2016,"1,2"
+10,Comunitat Valenciana,Industria,2014,"4,6"
+10,Comunitat Valenciana,Industria,2013,"0,2"
+10,Comunitat Valenciana,Industria,2012,"0,6"
+10,Comunitat Valenciana,Industria,2011,"0,1"
+10,Comunitat Valenciana,Industria,2010,..
+10,Comunitat Valenciana,Industria,2009,..
+10,Comunitat Valenciana,Industria,2008,..
+10,Comunitat Valenciana,Industria,2007,..
+10,Comunitat Valenciana,Industria,2006,..
+10,Comunitat Valenciana,Industria,2005,..
+10,Comunitat Valenciana,Industria,2004,..
+10,Comunitat Valenciana,Industria,2003,..
+10,Comunitat Valenciana,Industria,2002,..
+10,Comunitat Valenciana,Industria,2001,..
+10,Comunitat Valenciana,Industria,2000,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2022,"5,0"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2020,"3,2"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2018,"3,5"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2016,"2,7"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2014,"5,1"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2013,"5,4"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2012,"1,4"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2011,"1,5"
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2010,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2009,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2008,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2007,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2006,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2005,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2004,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2003,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2002,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2001,..
+10,Comunitat Valenciana,Jardines y zonas deportivas de ocio,2000,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2022,"0,2"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2020,"1,6"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2012,"1,2"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2011,"0,8"
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2010,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2009,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2008,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2007,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2006,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2005,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2004,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2003,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2002,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2001,..
+10,Comunitat Valenciana,Limpieza de alcantarillado y baldeo de calles,2000,..
+10,Comunitat Valenciana,Otros usos,2022,"2,8"
+10,Comunitat Valenciana,Otros usos,2020,"0,0"
+10,Comunitat Valenciana,Otros usos,2018,"0,0"
+10,Comunitat Valenciana,Otros usos,2016,"0,0"
+10,Comunitat Valenciana,Otros usos,2014,"0,6"
+10,Comunitat Valenciana,Otros usos,2013,"0,6"
+10,Comunitat Valenciana,Otros usos,2012,"0,4"
+10,Comunitat Valenciana,Otros usos,2011,"2,2"
+10,Comunitat Valenciana,Otros usos,2010,..
+10,Comunitat Valenciana,Otros usos,2009,..
+10,Comunitat Valenciana,Otros usos,2008,..
+10,Comunitat Valenciana,Otros usos,2007,..
+10,Comunitat Valenciana,Otros usos,2006,..
+10,Comunitat Valenciana,Otros usos,2005,..
+10,Comunitat Valenciana,Otros usos,2004,..
+10,Comunitat Valenciana,Otros usos,2003,..
+10,Comunitat Valenciana,Otros usos,2002,..
+10,Comunitat Valenciana,Otros usos,2001,..
+10,Comunitat Valenciana,Otros usos,2000,..
+11,Extremadura,Agricultura,2022,"0,0"
+11,Extremadura,Agricultura,2020,"0,0"
+11,Extremadura,Agricultura,2018,"0,0"
+11,Extremadura,Agricultura,2016,"0,0"
+11,Extremadura,Agricultura,2014,"0,0"
+11,Extremadura,Agricultura,2013,"0,0"
+11,Extremadura,Agricultura,2012,"0,0"
+11,Extremadura,Agricultura,2011,"0,0"
+11,Extremadura,Agricultura,2010,..
+11,Extremadura,Agricultura,2009,..
+11,Extremadura,Agricultura,2008,..
+11,Extremadura,Agricultura,2007,..
+11,Extremadura,Agricultura,2006,..
+11,Extremadura,Agricultura,2005,..
+11,Extremadura,Agricultura,2004,..
+11,Extremadura,Agricultura,2003,..
+11,Extremadura,Agricultura,2002,..
+11,Extremadura,Agricultura,2001,..
+11,Extremadura,Agricultura,2000,..
+11,Extremadura,Industria,2022,"0,0"
+11,Extremadura,Industria,2020,"0,0"
+11,Extremadura,Industria,2018,"0,0"
+11,Extremadura,Industria,2016,"0,0"
+11,Extremadura,Industria,2014,"0,0"
+11,Extremadura,Industria,2013,"0,0"
+11,Extremadura,Industria,2012,"0,0"
+11,Extremadura,Industria,2011,"0,0"
+11,Extremadura,Industria,2010,..
+11,Extremadura,Industria,2009,..
+11,Extremadura,Industria,2008,..
+11,Extremadura,Industria,2007,..
+11,Extremadura,Industria,2006,..
+11,Extremadura,Industria,2005,..
+11,Extremadura,Industria,2004,..
+11,Extremadura,Industria,2003,..
+11,Extremadura,Industria,2002,..
+11,Extremadura,Industria,2001,..
+11,Extremadura,Industria,2000,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2022,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2020,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2018,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2016,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2014,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2013,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2012,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2011,"0,0"
+11,Extremadura,Jardines y zonas deportivas de ocio,2010,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2009,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2008,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2007,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2006,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2005,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2004,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2003,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2002,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2001,..
+11,Extremadura,Jardines y zonas deportivas de ocio,2000,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2010,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2009,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2008,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2007,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2006,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2005,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2004,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2003,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2002,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2001,..
+11,Extremadura,Limpieza de alcantarillado y baldeo de calles,2000,..
+11,Extremadura,Otros usos,2022,"0,0"
+11,Extremadura,Otros usos,2020,"0,0"
+11,Extremadura,Otros usos,2018,"0,0"
+11,Extremadura,Otros usos,2016,"0,0"
+11,Extremadura,Otros usos,2014,"100,0"
+11,Extremadura,Otros usos,2013,"0,0"
+11,Extremadura,Otros usos,2012,"0,0"
+11,Extremadura,Otros usos,2011,"100,0"
+11,Extremadura,Otros usos,2010,..
+11,Extremadura,Otros usos,2009,..
+11,Extremadura,Otros usos,2008,..
+11,Extremadura,Otros usos,2007,..
+11,Extremadura,Otros usos,2006,..
+11,Extremadura,Otros usos,2005,..
+11,Extremadura,Otros usos,2004,..
+11,Extremadura,Otros usos,2003,..
+11,Extremadura,Otros usos,2002,..
+11,Extremadura,Otros usos,2001,..
+11,Extremadura,Otros usos,2000,..
+12,Galicia,Agricultura,2022,"0,0"
+12,Galicia,Agricultura,2020,"0,0"
+12,Galicia,Agricultura,2018,"0,0"
+12,Galicia,Agricultura,2016,"0,0"
+12,Galicia,Agricultura,2014,"0,0"
+12,Galicia,Agricultura,2013,"0,0"
+12,Galicia,Agricultura,2012,"0,0"
+12,Galicia,Agricultura,2011,"0,0"
+12,Galicia,Agricultura,2010,..
+12,Galicia,Agricultura,2009,..
+12,Galicia,Agricultura,2008,..
+12,Galicia,Agricultura,2007,..
+12,Galicia,Agricultura,2006,..
+12,Galicia,Agricultura,2005,..
+12,Galicia,Agricultura,2004,..
+12,Galicia,Agricultura,2003,..
+12,Galicia,Agricultura,2002,..
+12,Galicia,Agricultura,2001,..
+12,Galicia,Agricultura,2000,..
+12,Galicia,Industria,2022,"0,0"
+12,Galicia,Industria,2020,"0,0"
+12,Galicia,Industria,2018,"0,0"
+12,Galicia,Industria,2016,"0,0"
+12,Galicia,Industria,2014,"0,0"
+12,Galicia,Industria,2013,"0,0"
+12,Galicia,Industria,2012,"0,0"
+12,Galicia,Industria,2011,"0,0"
+12,Galicia,Industria,2010,..
+12,Galicia,Industria,2009,..
+12,Galicia,Industria,2008,..
+12,Galicia,Industria,2007,..
+12,Galicia,Industria,2006,..
+12,Galicia,Industria,2005,..
+12,Galicia,Industria,2004,..
+12,Galicia,Industria,2003,..
+12,Galicia,Industria,2002,..
+12,Galicia,Industria,2001,..
+12,Galicia,Industria,2000,..
+12,Galicia,Jardines y zonas deportivas de ocio,2022,"0,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2020,"81,5"
+12,Galicia,Jardines y zonas deportivas de ocio,2018,"82,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2016,"80,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2014,"0,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2013,"0,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2012,"0,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2011,"0,0"
+12,Galicia,Jardines y zonas deportivas de ocio,2010,..
+12,Galicia,Jardines y zonas deportivas de ocio,2009,..
+12,Galicia,Jardines y zonas deportivas de ocio,2008,..
+12,Galicia,Jardines y zonas deportivas de ocio,2007,..
+12,Galicia,Jardines y zonas deportivas de ocio,2006,..
+12,Galicia,Jardines y zonas deportivas de ocio,2005,..
+12,Galicia,Jardines y zonas deportivas de ocio,2004,..
+12,Galicia,Jardines y zonas deportivas de ocio,2003,..
+12,Galicia,Jardines y zonas deportivas de ocio,2002,..
+12,Galicia,Jardines y zonas deportivas de ocio,2001,..
+12,Galicia,Jardines y zonas deportivas de ocio,2000,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2020,"18,5"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2018,"18,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2016,"20,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2010,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2009,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2008,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2007,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2006,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2005,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2004,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2003,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2002,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2001,..
+12,Galicia,Limpieza de alcantarillado y baldeo de calles,2000,..
+12,Galicia,Otros usos,2022,"0,0"
+12,Galicia,Otros usos,2020,"0,0"
+12,Galicia,Otros usos,2018,"0,0"
+12,Galicia,Otros usos,2016,"0,0"
+12,Galicia,Otros usos,2014,"100,0"
+12,Galicia,Otros usos,2013,"0,0"
+12,Galicia,Otros usos,2012,"100,0"
+12,Galicia,Otros usos,2011,"100,0"
+12,Galicia,Otros usos,2010,..
+12,Galicia,Otros usos,2009,..
+12,Galicia,Otros usos,2008,..
+12,Galicia,Otros usos,2007,..
+12,Galicia,Otros usos,2006,..
+12,Galicia,Otros usos,2005,..
+12,Galicia,Otros usos,2004,..
+12,Galicia,Otros usos,2003,..
+12,Galicia,Otros usos,2002,..
+12,Galicia,Otros usos,2001,..
+12,Galicia,Otros usos,2000,..
+13,"Madrid, Comunidad de",Agricultura,2022,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2020,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2018,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2016,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2014,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2013,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2012,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2011,"0,0"
+13,"Madrid, Comunidad de",Agricultura,2010,..
+13,"Madrid, Comunidad de",Agricultura,2009,..
+13,"Madrid, Comunidad de",Agricultura,2008,..
+13,"Madrid, Comunidad de",Agricultura,2007,..
+13,"Madrid, Comunidad de",Agricultura,2006,..
+13,"Madrid, Comunidad de",Agricultura,2005,..
+13,"Madrid, Comunidad de",Agricultura,2004,..
+13,"Madrid, Comunidad de",Agricultura,2003,..
+13,"Madrid, Comunidad de",Agricultura,2002,..
+13,"Madrid, Comunidad de",Agricultura,2001,..
+13,"Madrid, Comunidad de",Agricultura,2000,..
+13,"Madrid, Comunidad de",Industria,2022,"26,5"
+13,"Madrid, Comunidad de",Industria,2020,"15,3"
+13,"Madrid, Comunidad de",Industria,2018,"8,6"
+13,"Madrid, Comunidad de",Industria,2016,"14,2"
+13,"Madrid, Comunidad de",Industria,2014,"19,5"
+13,"Madrid, Comunidad de",Industria,2013,"12,4"
+13,"Madrid, Comunidad de",Industria,2012,"0,0"
+13,"Madrid, Comunidad de",Industria,2011,"0,0"
+13,"Madrid, Comunidad de",Industria,2010,..
+13,"Madrid, Comunidad de",Industria,2009,..
+13,"Madrid, Comunidad de",Industria,2008,..
+13,"Madrid, Comunidad de",Industria,2007,..
+13,"Madrid, Comunidad de",Industria,2006,..
+13,"Madrid, Comunidad de",Industria,2005,..
+13,"Madrid, Comunidad de",Industria,2004,..
+13,"Madrid, Comunidad de",Industria,2003,..
+13,"Madrid, Comunidad de",Industria,2002,..
+13,"Madrid, Comunidad de",Industria,2001,..
+13,"Madrid, Comunidad de",Industria,2000,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2022,"68,2"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2020,"65,9"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2018,"85,1"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2016,"80,0"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2014,"74,3"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2013,"85,1"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2012,"75,8"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2011,"100,0"
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2010,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2009,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2008,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2007,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2006,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2005,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2004,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2003,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2002,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2001,..
+13,"Madrid, Comunidad de",Jardines y zonas deportivas de ocio,2000,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2022,"5,3"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2020,"18,8"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2018,"6,3"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2016,"5,8"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2014,"6,2"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2012,"10,1"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2010,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2009,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2008,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2007,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2006,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2005,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2004,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2003,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2002,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2001,..
+13,"Madrid, Comunidad de",Limpieza de alcantarillado y baldeo de calles,2000,..
+13,"Madrid, Comunidad de",Otros usos,2022,"0,0"
+13,"Madrid, Comunidad de",Otros usos,2020,"0,0"
+13,"Madrid, Comunidad de",Otros usos,2018,"0,0"
+13,"Madrid, Comunidad de",Otros usos,2016,"0,0"
+13,"Madrid, Comunidad de",Otros usos,2014,"0,0"
+13,"Madrid, Comunidad de",Otros usos,2013,"2,5"
+13,"Madrid, Comunidad de",Otros usos,2012,"14,1"
+13,"Madrid, Comunidad de",Otros usos,2011,"0,0"
+13,"Madrid, Comunidad de",Otros usos,2010,..
+13,"Madrid, Comunidad de",Otros usos,2009,..
+13,"Madrid, Comunidad de",Otros usos,2008,..
+13,"Madrid, Comunidad de",Otros usos,2007,..
+13,"Madrid, Comunidad de",Otros usos,2006,..
+13,"Madrid, Comunidad de",Otros usos,2005,..
+13,"Madrid, Comunidad de",Otros usos,2004,..
+13,"Madrid, Comunidad de",Otros usos,2003,..
+13,"Madrid, Comunidad de",Otros usos,2002,..
+13,"Madrid, Comunidad de",Otros usos,2001,..
+13,"Madrid, Comunidad de",Otros usos,2000,..
+14,"Murcia, Región de",Agricultura,2022,"92,1"
+14,"Murcia, Región de",Agricultura,2020,"86,3"
+14,"Murcia, Región de",Agricultura,2018,"99,8"
+14,"Murcia, Región de",Agricultura,2016,"99,8"
+14,"Murcia, Región de",Agricultura,2014,"98,1"
+14,"Murcia, Región de",Agricultura,2013,"98,0"
+14,"Murcia, Región de",Agricultura,2012,"90,0"
+14,"Murcia, Región de",Agricultura,2011,"91,0"
+14,"Murcia, Región de",Agricultura,2010,..
+14,"Murcia, Región de",Agricultura,2009,..
+14,"Murcia, Región de",Agricultura,2008,..
+14,"Murcia, Región de",Agricultura,2007,..
+14,"Murcia, Región de",Agricultura,2006,..
+14,"Murcia, Región de",Agricultura,2005,..
+14,"Murcia, Región de",Agricultura,2004,..
+14,"Murcia, Región de",Agricultura,2003,..
+14,"Murcia, Región de",Agricultura,2002,..
+14,"Murcia, Región de",Agricultura,2001,..
+14,"Murcia, Región de",Agricultura,2000,..
+14,"Murcia, Región de",Industria,2022,"3,0"
+14,"Murcia, Región de",Industria,2020,"0,0"
+14,"Murcia, Región de",Industria,2018,"0,0"
+14,"Murcia, Región de",Industria,2016,"0,0"
+14,"Murcia, Región de",Industria,2014,"0,0"
+14,"Murcia, Región de",Industria,2013,"0,2"
+14,"Murcia, Región de",Industria,2012,"6,7"
+14,"Murcia, Región de",Industria,2011,"4,1"
+14,"Murcia, Región de",Industria,2010,..
+14,"Murcia, Región de",Industria,2009,..
+14,"Murcia, Región de",Industria,2008,..
+14,"Murcia, Región de",Industria,2007,..
+14,"Murcia, Región de",Industria,2006,..
+14,"Murcia, Región de",Industria,2005,..
+14,"Murcia, Región de",Industria,2004,..
+14,"Murcia, Región de",Industria,2003,..
+14,"Murcia, Región de",Industria,2002,..
+14,"Murcia, Región de",Industria,2001,..
+14,"Murcia, Región de",Industria,2000,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2022,"1,4"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2020,"0,5"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2018,"0,2"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2016,"0,2"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2014,"1,9"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2013,"1,7"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2012,"2,7"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2011,"5,0"
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2010,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2009,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2008,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2007,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2006,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2005,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2004,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2003,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2002,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2001,..
+14,"Murcia, Región de",Jardines y zonas deportivas de ocio,2000,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2012,"0,6"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2011,"0,2"
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2010,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2009,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2008,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2007,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2006,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2005,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2004,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2003,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2002,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2001,..
+14,"Murcia, Región de",Limpieza de alcantarillado y baldeo de calles,2000,..
+14,"Murcia, Región de",Otros usos,2022,"3,5"
+14,"Murcia, Región de",Otros usos,2020,"13,2"
+14,"Murcia, Región de",Otros usos,2018,"0,0"
+14,"Murcia, Región de",Otros usos,2016,"0,0"
+14,"Murcia, Región de",Otros usos,2014,"0,0"
+14,"Murcia, Región de",Otros usos,2013,"0,0"
+14,"Murcia, Región de",Otros usos,2012,"0,0"
+14,"Murcia, Región de",Otros usos,2011,"0,0"
+14,"Murcia, Región de",Otros usos,2010,..
+14,"Murcia, Región de",Otros usos,2009,..
+14,"Murcia, Región de",Otros usos,2008,..
+14,"Murcia, Región de",Otros usos,2007,..
+14,"Murcia, Región de",Otros usos,2006,..
+14,"Murcia, Región de",Otros usos,2005,..
+14,"Murcia, Región de",Otros usos,2004,..
+14,"Murcia, Región de",Otros usos,2003,..
+14,"Murcia, Región de",Otros usos,2002,..
+14,"Murcia, Región de",Otros usos,2001,..
+14,"Murcia, Región de",Otros usos,2000,..
+15,"Navarra, Comunidad Foral de",Agricultura,2022,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2020,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2018,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2016,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2014,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2013,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2012,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2011,"0,0"
+15,"Navarra, Comunidad Foral de",Agricultura,2010,..
+15,"Navarra, Comunidad Foral de",Agricultura,2009,..
+15,"Navarra, Comunidad Foral de",Agricultura,2008,..
+15,"Navarra, Comunidad Foral de",Agricultura,2007,..
+15,"Navarra, Comunidad Foral de",Agricultura,2006,..
+15,"Navarra, Comunidad Foral de",Agricultura,2005,..
+15,"Navarra, Comunidad Foral de",Agricultura,2004,..
+15,"Navarra, Comunidad Foral de",Agricultura,2003,..
+15,"Navarra, Comunidad Foral de",Agricultura,2002,..
+15,"Navarra, Comunidad Foral de",Agricultura,2001,..
+15,"Navarra, Comunidad Foral de",Agricultura,2000,..
+15,"Navarra, Comunidad Foral de",Industria,2022,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2020,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2018,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2016,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2014,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2013,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2012,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2011,"0,0"
+15,"Navarra, Comunidad Foral de",Industria,2010,..
+15,"Navarra, Comunidad Foral de",Industria,2009,..
+15,"Navarra, Comunidad Foral de",Industria,2008,..
+15,"Navarra, Comunidad Foral de",Industria,2007,..
+15,"Navarra, Comunidad Foral de",Industria,2006,..
+15,"Navarra, Comunidad Foral de",Industria,2005,..
+15,"Navarra, Comunidad Foral de",Industria,2004,..
+15,"Navarra, Comunidad Foral de",Industria,2003,..
+15,"Navarra, Comunidad Foral de",Industria,2002,..
+15,"Navarra, Comunidad Foral de",Industria,2001,..
+15,"Navarra, Comunidad Foral de",Industria,2000,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2022,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2020,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2018,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2016,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2014,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2013,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2012,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2011,"0,0"
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2010,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2009,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2008,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2007,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2006,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2005,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2004,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2003,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2002,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2001,..
+15,"Navarra, Comunidad Foral de",Jardines y zonas deportivas de ocio,2000,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2010,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2009,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2008,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2007,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2006,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2005,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2004,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2003,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2002,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2001,..
+15,"Navarra, Comunidad Foral de",Limpieza de alcantarillado y baldeo de calles,2000,..
+15,"Navarra, Comunidad Foral de",Otros usos,2022,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2020,"100,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2018,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2016,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2014,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2013,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2012,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2011,"0,0"
+15,"Navarra, Comunidad Foral de",Otros usos,2010,..
+15,"Navarra, Comunidad Foral de",Otros usos,2009,..
+15,"Navarra, Comunidad Foral de",Otros usos,2008,..
+15,"Navarra, Comunidad Foral de",Otros usos,2007,..
+15,"Navarra, Comunidad Foral de",Otros usos,2006,..
+15,"Navarra, Comunidad Foral de",Otros usos,2005,..
+15,"Navarra, Comunidad Foral de",Otros usos,2004,..
+15,"Navarra, Comunidad Foral de",Otros usos,2003,..
+15,"Navarra, Comunidad Foral de",Otros usos,2002,..
+15,"Navarra, Comunidad Foral de",Otros usos,2001,..
+15,"Navarra, Comunidad Foral de",Otros usos,2000,..
+16,País Vasco,Agricultura,2022,"0,0"
+16,País Vasco,Agricultura,2020,"0,0"
+16,País Vasco,Agricultura,2018,"0,0"
+16,País Vasco,Agricultura,2016,"0,0"
+16,País Vasco,Agricultura,2014,"51,5"
+16,País Vasco,Agricultura,2013,"53,8"
+16,País Vasco,Agricultura,2012,"25,2"
+16,País Vasco,Agricultura,2011,"75,6"
+16,País Vasco,Agricultura,2010,..
+16,País Vasco,Agricultura,2009,..
+16,País Vasco,Agricultura,2008,..
+16,País Vasco,Agricultura,2007,..
+16,País Vasco,Agricultura,2006,..
+16,País Vasco,Agricultura,2005,..
+16,País Vasco,Agricultura,2004,..
+16,País Vasco,Agricultura,2003,..
+16,País Vasco,Agricultura,2002,..
+16,País Vasco,Agricultura,2001,..
+16,País Vasco,Agricultura,2000,..
+16,País Vasco,Industria,2022,"93,0"
+16,País Vasco,Industria,2020,"81,5"
+16,País Vasco,Industria,2018,"78,5"
+16,País Vasco,Industria,2016,"76,3"
+16,País Vasco,Industria,2014,"14,3"
+16,País Vasco,Industria,2013,"7,6"
+16,País Vasco,Industria,2012,"0,0"
+16,País Vasco,Industria,2011,"0,0"
+16,País Vasco,Industria,2010,..
+16,País Vasco,Industria,2009,..
+16,País Vasco,Industria,2008,..
+16,País Vasco,Industria,2007,..
+16,País Vasco,Industria,2006,..
+16,País Vasco,Industria,2005,..
+16,País Vasco,Industria,2004,..
+16,País Vasco,Industria,2003,..
+16,País Vasco,Industria,2002,..
+16,País Vasco,Industria,2001,..
+16,País Vasco,Industria,2000,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2022,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2020,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2018,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2016,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2014,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2013,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2012,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2011,"0,0"
+16,País Vasco,Jardines y zonas deportivas de ocio,2010,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2009,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2008,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2007,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2006,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2005,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2004,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2003,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2002,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2001,..
+16,País Vasco,Jardines y zonas deportivas de ocio,2000,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2010,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2009,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2008,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2007,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2006,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2005,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2004,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2003,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2002,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2001,..
+16,País Vasco,Limpieza de alcantarillado y baldeo de calles,2000,..
+16,País Vasco,Otros usos,2022,"7,0"
+16,País Vasco,Otros usos,2020,"18,5"
+16,País Vasco,Otros usos,2018,"21,5"
+16,País Vasco,Otros usos,2016,"23,7"
+16,País Vasco,Otros usos,2014,"34,2"
+16,País Vasco,Otros usos,2013,"38,6"
+16,País Vasco,Otros usos,2012,"74,8"
+16,País Vasco,Otros usos,2011,"24,4"
+16,País Vasco,Otros usos,2010,..
+16,País Vasco,Otros usos,2009,..
+16,País Vasco,Otros usos,2008,..
+16,País Vasco,Otros usos,2007,..
+16,País Vasco,Otros usos,2006,..
+16,País Vasco,Otros usos,2005,..
+16,País Vasco,Otros usos,2004,..
+16,País Vasco,Otros usos,2003,..
+16,País Vasco,Otros usos,2002,..
+16,País Vasco,Otros usos,2001,..
+16,País Vasco,Otros usos,2000,..
+17,"Rioja, La",Agricultura,2022,"0,0"
+17,"Rioja, La",Agricultura,2020,"0,0"
+17,"Rioja, La",Agricultura,2018,"0,0"
+17,"Rioja, La",Agricultura,2016,"0,0"
+17,"Rioja, La",Agricultura,2014,"0,0"
+17,"Rioja, La",Agricultura,2013,"0,0"
+17,"Rioja, La",Agricultura,2012,"0,0"
+17,"Rioja, La",Agricultura,2011,"0,0"
+17,"Rioja, La",Agricultura,2010,..
+17,"Rioja, La",Agricultura,2009,..
+17,"Rioja, La",Agricultura,2008,..
+17,"Rioja, La",Agricultura,2007,..
+17,"Rioja, La",Agricultura,2006,..
+17,"Rioja, La",Agricultura,2005,..
+17,"Rioja, La",Agricultura,2004,..
+17,"Rioja, La",Agricultura,2003,..
+17,"Rioja, La",Agricultura,2002,..
+17,"Rioja, La",Agricultura,2001,..
+17,"Rioja, La",Agricultura,2000,..
+17,"Rioja, La",Industria,2022,"0,0"
+17,"Rioja, La",Industria,2020,"0,0"
+17,"Rioja, La",Industria,2018,"0,0"
+17,"Rioja, La",Industria,2016,"0,0"
+17,"Rioja, La",Industria,2014,"0,0"
+17,"Rioja, La",Industria,2013,"0,0"
+17,"Rioja, La",Industria,2012,"0,0"
+17,"Rioja, La",Industria,2011,"0,0"
+17,"Rioja, La",Industria,2010,..
+17,"Rioja, La",Industria,2009,..
+17,"Rioja, La",Industria,2008,..
+17,"Rioja, La",Industria,2007,..
+17,"Rioja, La",Industria,2006,..
+17,"Rioja, La",Industria,2005,..
+17,"Rioja, La",Industria,2004,..
+17,"Rioja, La",Industria,2003,..
+17,"Rioja, La",Industria,2002,..
+17,"Rioja, La",Industria,2001,..
+17,"Rioja, La",Industria,2000,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2022,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2020,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2018,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2016,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2014,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2013,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2012,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2011,"0,0"
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2010,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2009,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2008,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2007,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2006,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2005,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2004,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2003,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2002,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2001,..
+17,"Rioja, La",Jardines y zonas deportivas de ocio,2000,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2022,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2014,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2013,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2012,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2011,"0,0"
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2010,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2009,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2008,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2007,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2006,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2005,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2004,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2003,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2002,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2001,..
+17,"Rioja, La",Limpieza de alcantarillado y baldeo de calles,2000,..
+17,"Rioja, La",Otros usos,2022,"0,0"
+17,"Rioja, La",Otros usos,2020,"0,0"
+17,"Rioja, La",Otros usos,2018,"0,0"
+17,"Rioja, La",Otros usos,2016,"0,0"
+17,"Rioja, La",Otros usos,2014,"0,0"
+17,"Rioja, La",Otros usos,2013,"0,0"
+17,"Rioja, La",Otros usos,2012,"0,0"
+17,"Rioja, La",Otros usos,2011,"0,0"
+17,"Rioja, La",Otros usos,2010,..
+17,"Rioja, La",Otros usos,2009,..
+17,"Rioja, La",Otros usos,2008,..
+17,"Rioja, La",Otros usos,2007,..
+17,"Rioja, La",Otros usos,2006,..
+17,"Rioja, La",Otros usos,2005,..
+17,"Rioja, La",Otros usos,2004,..
+17,"Rioja, La",Otros usos,2003,..
+17,"Rioja, La",Otros usos,2002,..
+17,"Rioja, La",Otros usos,2001,..
+17,"Rioja, La",Otros usos,2000,..
+18,Ceuta y Melilla,Agricultura,2022,"0,0"
+18,Ceuta y Melilla,Agricultura,2020,"0,0"
+18,Ceuta y Melilla,Agricultura,2018,"0,0"
+18,Ceuta y Melilla,Agricultura,2016,"0,0"
+18,Ceuta y Melilla,Agricultura,2014,"0,0"
+18,Ceuta y Melilla,Agricultura,2013,"0,0"
+18,Ceuta y Melilla,Agricultura,2012,"0,0"
+18,Ceuta y Melilla,Agricultura,2011,"0,0"
+18,Ceuta y Melilla,Agricultura,2010,..
+18,Ceuta y Melilla,Agricultura,2009,..
+18,Ceuta y Melilla,Agricultura,2008,..
+18,Ceuta y Melilla,Agricultura,2007,..
+18,Ceuta y Melilla,Agricultura,2006,..
+18,Ceuta y Melilla,Agricultura,2005,..
+18,Ceuta y Melilla,Agricultura,2004,..
+18,Ceuta y Melilla,Agricultura,2003,..
+18,Ceuta y Melilla,Agricultura,2002,..
+18,Ceuta y Melilla,Agricultura,2001,..
+18,Ceuta y Melilla,Agricultura,2000,..
+18,Ceuta y Melilla,Industria,2022,"0,5"
+18,Ceuta y Melilla,Industria,2020,"0,0"
+18,Ceuta y Melilla,Industria,2018,"0,0"
+18,Ceuta y Melilla,Industria,2016,"0,0"
+18,Ceuta y Melilla,Industria,2014,"0,0"
+18,Ceuta y Melilla,Industria,2013,"0,0"
+18,Ceuta y Melilla,Industria,2012,"0,0"
+18,Ceuta y Melilla,Industria,2011,"0,0"
+18,Ceuta y Melilla,Industria,2010,..
+18,Ceuta y Melilla,Industria,2009,..
+18,Ceuta y Melilla,Industria,2008,..
+18,Ceuta y Melilla,Industria,2007,..
+18,Ceuta y Melilla,Industria,2006,..
+18,Ceuta y Melilla,Industria,2005,..
+18,Ceuta y Melilla,Industria,2004,..
+18,Ceuta y Melilla,Industria,2003,..
+18,Ceuta y Melilla,Industria,2002,..
+18,Ceuta y Melilla,Industria,2001,..
+18,Ceuta y Melilla,Industria,2000,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2022,"39,8"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2020,"0,0"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2018,"100,0"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2016,"0,0"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2014,"60,0"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2013,"44,0"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2012,"96,0"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2011,"90,5"
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2010,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2009,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2008,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2007,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2006,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2005,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2004,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2003,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2002,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2001,..
+18,Ceuta y Melilla,Jardines y zonas deportivas de ocio,2000,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2022,"59,7"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2020,"0,0"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2018,"0,0"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2016,"0,0"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2014,"40,0"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2013,"56,0"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2012,"4,0"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2011,"9,5"
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2010,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2009,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2008,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2007,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2006,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2005,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2004,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2003,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2002,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2001,..
+18,Ceuta y Melilla,Limpieza de alcantarillado y baldeo de calles,2000,..
+18,Ceuta y Melilla,Otros usos,2022,"0,0"
+18,Ceuta y Melilla,Otros usos,2020,"0,0"
+18,Ceuta y Melilla,Otros usos,2018,"0,0"
+18,Ceuta y Melilla,Otros usos,2016,"0,0"
+18,Ceuta y Melilla,Otros usos,2014,"0,0"
+18,Ceuta y Melilla,Otros usos,2013,"0,0"
+18,Ceuta y Melilla,Otros usos,2012,"0,0"
+18,Ceuta y Melilla,Otros usos,2011,"0,0"
+18,Ceuta y Melilla,Otros usos,2010,..
+18,Ceuta y Melilla,Otros usos,2009,..
+18,Ceuta y Melilla,Otros usos,2008,..
+18,Ceuta y Melilla,Otros usos,2007,..
+18,Ceuta y Melilla,Otros usos,2006,..
+18,Ceuta y Melilla,Otros usos,2005,..
+18,Ceuta y Melilla,Otros usos,2004,..
+18,Ceuta y Melilla,Otros usos,2003,..
+18,Ceuta y Melilla,Otros usos,2002,..
+18,Ceuta y Melilla,Otros usos,2001,..
+18,Ceuta y Melilla,Otros usos,2000,..
