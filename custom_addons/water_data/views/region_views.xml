@@ -1,0 +1,21 @@
+ <odoo>
+    <record id="view_water_region_list" model="ir.ui.view">
+        <field name="name">water.region.list</field>
+        <field name="model">water.region</field>
+        <field name="arch" type="xml">
+            <list>
+                <field name="code"/>
+                <field name="name"/>
+            </list>
+        </field>
+    </record>
+
+    <record id="action_water_region" model="ir.actions.act_window">
+        <field name="name">Water Regions</field>
+        <field name="res_model">water.region</field>
+        <field name="view_mode">list</field>
+    </record>
+
+    <menuitem id="menu_water_root" name="Water Data"/>
+    <menuitem id="menu_water_region" name="Regions" parent="menu_water_root" action="action_water_region"/>
+</odoo>
