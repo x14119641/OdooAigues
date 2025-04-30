@@ -1,13 +1,12 @@
 [tool.poetry]
 name = "odooaigues"
 version = "0.1.0"
-description = "Just messing around with the wrapper of odoo for python with some data form \"INE\" about water."
+description = ""
 authors = ["x14119641 <daniel.gil.romero24@gmail.com>"]
-license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10.8"
 pandas = "^2.2.3"
 
 
