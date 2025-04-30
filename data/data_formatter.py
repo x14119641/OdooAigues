@@ -73,7 +73,7 @@ def transform_df(df: pd.DataFrame):
 
     if 'region' in df.columns:
         # Extract code and name
-        df[["region_code", "region_name"]
+        df[["code", "region_name"]
            ] = df["region"].str.extract(r"^(\d+)\s+(.*)")
         # print(df)
         # Drop region as we dont need it and rename to region again (keep region_Code though)
@@ -81,8 +81,8 @@ def transform_df(df: pd.DataFrame):
         df.rename(columns={"region_name": "region"}, inplace=True)
 
         # Reorder new cols in the front
-        new_order_cols = ["region_code", "region"] + \
-            [col for col in df.columns if col not in ["region_code", "region"]]
+        new_order_cols = ["code", "region"] + \
+            [col for col in df.columns if col not in ["code", "region"]]
         df = df[new_order_cols]
 
     return df
@@ -111,7 +111,7 @@ def create_region_codes():
         "Ceuta y Melilla": "18"
     }
     df_region = pd.DataFrame([
-        {"region_code": code, "region": name}
+        {"code": code, "region": name}
         for name, code in REGION_CODES.items()
     ])
     
